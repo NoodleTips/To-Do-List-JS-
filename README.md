@@ -1,2 +1,3 @@
 # To-Do-List-JS-
-simple To-Do list in JavaScript
+
+This is a simple To-Do list written in JS. Little to no styling.
